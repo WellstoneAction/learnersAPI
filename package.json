@@ -1,0 +1,18 @@
+{
+    "name":"learnersAPI",
+    "version": "0.0.1",
+    "description": "Serves trainee data to power analytics, visualization, and learning management apps",
+    "author": "aliya rahman <aliya@wellstone.org>",
+    "main": "index.js",
+    "dependencies": {
+
+    },
+
+    "devDependencies": {
+        "coffee": "*"
+    },
+
+    "scripts": {
+        "zip": "zip -r ../learnersAPI.zip *"
+    }
+}

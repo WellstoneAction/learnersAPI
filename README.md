@@ -1,4 +1,4 @@
-Wellstone_Learners_API
+Wellstone Learners API
 =======================
 
 Serves trainee data to power analytics, visualization, and learning management apps
@@ -7,5 +7,5 @@ Serves trainee data to power analytics, visualization, and learning management a
 Architecture
 ------------
 - Built for use on AWS Lambda/API Gateway
-- JavaScript handler
+- JavaScript handler, built with Node.js
 - Serves JSON
