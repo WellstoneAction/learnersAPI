@@ -1,5 +1,5 @@
 var package = require("./package.json");
-var learnersAPI = require("./lib/learners")
+var learnersAPI = require("./lib/learnersAPI.js");
 
 console.log("loaded" + package.name + ", version "+package.version);
 
