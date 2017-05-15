@@ -1,4 +1,4 @@
-var assert = require("coffee").assert;
+var assert = require("chai").assert;
 var learnersAPI = require("../lib/learnersAPI.js");
 
 describe("learnersAPI", function () {
