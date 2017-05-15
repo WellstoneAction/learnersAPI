@@ -9,3 +9,9 @@ Architecture
 - Built for use on AWS Lambda/API Gateway
 - JavaScript handler, built with Node.js
 - Serves JSON
+
+
+
+Additional features
+--------------------
+- Script to generate zip file of data
